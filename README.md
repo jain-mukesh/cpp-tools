@@ -1,2 +1,2 @@
 # cpp-tools
-Collection of my CPP code
+Collection of some helpful CPP code that I developed over time.
